@@ -1,8 +1,8 @@
 
 ---
 
-## 175. 
-![alt text](https://github.com/mistertandon/aws-clf-co2-slides-by-stephane-maarek/blob/main/s9/175.png)
+## 175. Database Introduction
+
 
 When storing data on AWS, whether using Amazon EBS, EC2 Instance Store, Amazon S3, or Amazon EFS, it’s important to consider the specific capabilities and limitations of each service. These storage solutions are suitable for file operations and unstructured data storage. However, when structured data management is required, databases become essential.
 
@@ -10,19 +10,13 @@ AWS databases like Amazon RDS, Amazon DynamoDB, and Amazon Aurora provide advanc
 
 ---
 
-## 176. 
-![alt text](https://github.com/mistertandon/aws-clf-co2-slides-by-stephane-maarek/blob/main/s9/176.png)
-
-In a relational database, tables are structured with predefined schemas and interconnected through relationships. For instance, a `students` table might include columns for `student_id`, `department_id`, `name`, and `email`, while a `departments` table contains `department_id` and additional details. You establish a relationship between these tables by linking the `department_id` column in the `students` table to the corresponding column in the `departments` table.
-
-You can extend this model by defining additional relationships, such as linking a `subjects` table to the `students` table, enabling a highly structured and interconnected data architecture. This relational structure supports complex queries and ensures data integrity.
+## 176. Relational database
 
 Relational databases leverage SQL (Structured Query Language) to perform queries, updates, and lookups, making them ideal for applications requiring strict consistency, well-defined schemas, and advanced querying capabilities. AWS offers managed relational database services like Amazon RDS and Amazon Aurora, which streamline provisioning, scalability, and maintenance for cloud-native applications.
 
 ---
 
-## 177. 
-![alt text](https://github.com/mistertandon/aws-clf-co2-slides-by-stephane-maarek/blob/main/s9/177.png)
+## 177. NoSQL database
 
 NoSQL databases, or non-relational databases, are purpose-built for modern applications with specific data models in mind. They provide a flexible, schema-less architecture, enabling developers to adapt data structures as application requirements evolve. This flexibility makes NoSQL databases ideal for dynamic, high-performance workloads.
 
@@ -32,15 +26,13 @@ AWS offers several NoSQL database solutions tailored to various data models, inc
 
 ---
 
-## 178. 
-![alt text](https://github.com/mistertandon/aws-clf-co2-slides-by-stephane-maarek/blob/main/s9/178.png)
+## 178. JSON (JavaScript Object Notation)
 
 NoSQL databases, such as Amazon DynamoDB or Amazon DocumentDB, often store data in JSON (JavaScript Object Notation) format. JSON provides a flexible structure with nested objects, diverse field types, and schema-less design, making it ideal for modeling complex and dynamic datasets. This versatility enables developers to efficiently represent and query hierarchical or semi-structured data in modern NoSQL environments.
 
 ---
 
-## 179. 
-![alt text](https://github.com/mistertandon/aws-clf-co2-slides-by-stephane-maarek/blob/main/s9/179.png)
+## 179. Database & shared responsibility on AWS
 
 AWS managed database services, such as Amazon RDS, Amazon DynamoDB, and Amazon Aurora, provide significant advantages over self-managed databases on EC2. These services enable rapid provisioning and are built to ensure high availability with support for vertical and horizontal scaling. AWS automates critical operations, including backups, restores, software patching, and upgrades, freeing you from managing the underlying infrastructure.
 

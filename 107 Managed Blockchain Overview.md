@@ -1,8 +1,7 @@
 
 ---
 
-## 202. 
-![alt text](https://github.com/mistertandon/aws-clf-co2-slides-by-stephane-maarek/blob/main/s9/202.png)
+## 202. Amazon Managed Blockchain
 
 Amazon Managed Blockchain is a fully managed AWS service that simplifies the creation and management of Blockchain networks. 
 

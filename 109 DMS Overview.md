@@ -1,8 +1,7 @@
 
 ---
 
-## 204. 
-![alt text](https://github.com/mistertandon/aws-clf-co2-slides-by-stephane-maarek/blob/main/s9/204.png)
+## 204. AWS Database Migration Service (DMS)
 
 To migrate data between databases, AWS Database Migration Service (DMS) provides an efficient and secure solution. DMS enables the extraction of data from a source database using an EC2 instance running DMS software. After extraction, DMS automatically loads the data into the target database, which can be hosted on AWS or another location.
 

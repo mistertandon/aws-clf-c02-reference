@@ -1,8 +1,7 @@
 
 ---
 
-## 197. 
-![alt text](https://github.com/mistertandon/aws-clf-co2-slides-by-stephane-maarek/blob/main/s9/197.png)
+## 197. Amazon QuickSight
 
 Amazon QuickSight is a fully managed, serverless business intelligence (BI) service that leverages machine learning to create interactive, shareable dashboards. It enables organizations to visualize data seamlessly and deliver actionable insights to business users, empowering data-driven decision-making.  
 

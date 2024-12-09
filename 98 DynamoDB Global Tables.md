@@ -1,8 +1,7 @@
 
 ---
 
-## 192. 
-![alt text](https://github.com/mistertandon/aws-clf-co2-slides-by-stephane-maarek/blob/main/s9/192.png)
+## 192. DynamoDB Global Tables
 
 DynamoDB Global Tables enable low-latency, multi-region access to your data, providing seamless active-active replication across up to 10 AWS Regions. This feature ensures high availability, disaster recovery, and optimized performance for globally distributed applications.
 

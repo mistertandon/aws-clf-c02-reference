@@ -1,8 +1,7 @@
 
 ---
 
-## 198. 
-![alt text](https://github.com/mistertandon/aws-clf-co2-slides-by-stephane-maarek/blob/main/s9/198.png)
+## 198. Amazon DocumentDB
 
 Amazon DocumentDB (with MongoDB compatibility) is a fully managed NoSQL database service optimized for JSON-based document storage and processing. It provides MongoDB-compatible functionality, enabling seamless migration and integration of applications built on MongoDB.
 

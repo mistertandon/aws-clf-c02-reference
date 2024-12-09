@@ -1,8 +1,7 @@
 
 ---
 
-## 203. 
-![alt text](https://github.com/mistertandon/aws-clf-co2-slides-by-stephane-maarek/blob/main/s9/203.png)
+## 203. AWS Glue
 
 AWS Glue is a fully managed serverless Extract, Transform, and Load (ETL) service that simplifies data preparation for analytics and machine learning. It eliminates the need for provisioning and managing servers, enabling you to focus entirely on data transformation workflows while AWS handles the underlying infrastructure.
 

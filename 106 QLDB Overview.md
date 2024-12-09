@@ -1,8 +1,7 @@
 
 ---
 
-## 201. 
-![alt text](https://github.com/mistertandon/aws-clf-co2-slides-by-stephane-maarek/blob/main/s9/201.png)
+## 201. Amazon Quantum Ledger Database (QLDB)
 
 Amazon Quantum Ledger Database (QLDB) is a fully managed, serverless database purpose-built for maintaining a cryptographically verifiable ledger of application data. It is designed to provide an immutable and transparent record of all changes over time, making it ideal for use cases such as financial transactions, supply chain tracking, and compliance management.
 

@@ -1,8 +1,7 @@
 
 ---
 
-## 187. 
-![alt text](https://github.com/mistertandon/aws-clf-co2-slides-by-stephane-maarek/blob/main/s9/187.png)
+## 187. Amazon ElastiCache
 
 Amazon ElastiCache is a managed in-memory database service that supports engines like Redis and Memcached, offering high-performance caching with low latency. It’s designed to offload read-intensive workloads from primary databases, such as Amazon RDS, reducing latency and improving throughput.
 
@@ -12,7 +11,7 @@ As a fully managed service, ElastiCache eliminates the need for manual intervent
 
 ---
 
-## 188. 
+## 188. Amazon ElastiCache solution architect
 ![alt text](https://github.com/mistertandon/aws-clf-co2-slides-by-stephane-maarek/blob/main/s9/188.png)
 
 A cache functions as an in-memory database, significantly enhancing application performance by reducing the load on primary databases. In the AWS architecture, an Elastic Load Balancer (ELB) distributes traffic to EC2 instances, often deployed within an Auto Scaling Group (ASG). These instances interact with an Amazon RDS database for read and write operations. However, RDS can exhibit latency, especially with high traffic.

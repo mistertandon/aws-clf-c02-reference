@@ -1,8 +1,7 @@
 
 ---
 
-## 196. 
-![alt text](https://github.com/mistertandon/aws-clf-co2-slides-by-stephane-maarek/blob/main/s9/196.png)
+## 196. Amazon Athena
 
 Amazon Athena is a serverless, interactive query service that enables SQL-based analytics on data stored in Amazon S3. Built on the Presto engine, Athena supports various file formats, including CSV, JSON, ORC, Avro, and Parquet, allowing users to analyze data without the need for ETL processes or additional infrastructure.
 

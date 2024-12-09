@@ -1,8 +1,7 @@
 
 ---
 
-## 195. 
-![alt text](https://github.com/mistertandon/aws-clf-co2-slides-by-stephane-maarek/blob/main/s9/195.png)
+## 195. Amazon EMR (Elastic MapReduce)
 
 Amazon EMR (Elastic MapReduce) is a powerful AWS service designed for big data processing and analysis. While not a traditional database, EMR enables the creation and management of Hadoop clusters, providing a scalable and efficient platform for processing massive datasets.
 

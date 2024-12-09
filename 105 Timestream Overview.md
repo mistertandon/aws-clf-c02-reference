@@ -1,8 +1,7 @@
 
 ---
 
-## 200. 
-![alt text](https://github.com/mistertandon/aws-clf-co2-slides-by-stephane-maarek/blob/main/s9/200.png)
+## 200. Amazon Timestream
 
 Amazon Timestream is a purpose-built, fully managed, serverless time series database designed to handle the unique demands of time series data efficiently. It offers high performance, scalability, and cost-effectiveness for workloads that require storing and analyzing data points over time.
 

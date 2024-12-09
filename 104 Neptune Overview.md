@@ -1,8 +1,7 @@
 
 ---
 
-## 199. 
-![alt text](https://github.com/mistertandon/aws-clf-co2-slides-by-stephane-maarek/blob/main/s9/199.png)
+## 199. Amazon Neptune
 
 Amazon Neptune is a fully managed graph database service designed for highly connected datasets. It excels in scenarios such as social networks, where entities (users, posts) and their relationships (likes, comments, shares) form complex graphs. 
 

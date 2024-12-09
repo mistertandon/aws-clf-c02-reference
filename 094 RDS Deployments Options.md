@@ -1,7 +1,7 @@
 
 ---
 
-## 185. 
+## 185. RDS deployment: Read Replicas and Multi-AZ
 ![alt text](https://github.com/mistertandon/aws-clf-co2-slides-by-stephane-maarek/blob/main/s9/185.png)
 
 When deploying Amazon RDS databases, it's essential to select the appropriate architecture for scalability and availability. One effective option is RDS Read Replicas. These replicas distribute read traffic from your primary RDS instance, improving performance by offloading read-heavy workloads. You can create up to 15 Read Replicas, allowing applications to read from multiple instances while write operations are confined to the primary database. This setup scales read operations efficiently but does not affect write performance.
@@ -10,7 +10,7 @@ For high availability, RDS Multi-AZ deployments replicate your database across d
 
 ---
 
-## 186. 
+## 186. RDS deployment: Multi-Region
 ![alt text](https://github.com/mistertandon/aws-clf-co2-slides-by-stephane-maarek/blob/main/s9/186.png)
 
 

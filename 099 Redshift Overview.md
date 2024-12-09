@@ -1,8 +1,7 @@
 
 ---
 
-## 193. 
-![alt text](https://github.com/mistertandon/aws-clf-co2-slides-by-stephane-maarek/blob/main/s9/193.png)
+## 193. Amazon Redshift
 
 Amazon Redshift is a cloud data warehouse optimized for Online Analytical Processing (OLAP) workloads, making it ideal for analytics and large-scale data warehousing. Built on PostgreSQL, Redshift is purpose-built for analytical queries and not suited for Online Transaction Processing (OLTP), which is better handled by Amazon RDS.
 
@@ -16,8 +15,7 @@ Redshift’s combination of scalability, performance, and seamless integration w
 
 ---
 
-## 194. 
-![alt text](https://github.com/mistertandon/aws-clf-co2-slides-by-stephane-maarek/blob/main/s9/194.png)
+## 194. Amazon Redshift Serverless
 
 Amazon Redshift Serverless provides a fully managed analytics solution that eliminates the need to manually provision or scale your data warehouse infrastructure. This service dynamically manages capacity, allowing you to focus solely on querying and analyzing your data without operational overhead.
 
